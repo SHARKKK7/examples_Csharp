@@ -17,6 +17,7 @@
             int NumberB = int.Parse(InputLine1);
             int NumberC = int.Parse(InputLine2);
             int Max;
+            //int max = Math.Max(NumberA, Math.Max(NumberB, NumberC));
 
             if(NumberA > NumberB)
             {
